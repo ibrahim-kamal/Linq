@@ -1,0 +1,15 @@
+D:\C#\C#10\Delegates\Video04\bin\Debug\net6.0\Video04.exe
+D:\C#\C#10\Delegates\Video04\bin\Debug\net6.0\Video04.deps.json
+D:\C#\C#10\Delegates\Video04\bin\Debug\net6.0\Video04.runtimeconfig.json
+D:\C#\C#10\Delegates\Video04\bin\Debug\net6.0\Video04.dll
+D:\C#\C#10\Delegates\Video04\bin\Debug\net6.0\Video04.pdb
+D:\C#\C#10\Delegates\Video04\obj\Debug\net6.0\Video04.csproj.AssemblyReference.cache
+D:\C#\C#10\Delegates\Video04\obj\Debug\net6.0\Video04.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#10\Delegates\Video04\obj\Debug\net6.0\Video04.AssemblyInfoInputs.cache
+D:\C#\C#10\Delegates\Video04\obj\Debug\net6.0\Video04.AssemblyInfo.cs
+D:\C#\C#10\Delegates\Video04\obj\Debug\net6.0\Video04.csproj.CoreCompileInputs.cache
+D:\C#\C#10\Delegates\Video04\obj\Debug\net6.0\Video04.dll
+D:\C#\C#10\Delegates\Video04\obj\Debug\net6.0\refint\Video04.dll
+D:\C#\C#10\Delegates\Video04\obj\Debug\net6.0\Video04.pdb
+D:\C#\C#10\Delegates\Video04\obj\Debug\net6.0\Video04.genruntimeconfig.cache
+D:\C#\C#10\Delegates\Video04\obj\Debug\net6.0\ref\Video04.dll

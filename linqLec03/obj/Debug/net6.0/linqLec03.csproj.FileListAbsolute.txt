@@ -1,0 +1,15 @@
+D:\C#\C#10\Delegates\linqLec03\bin\Debug\net6.0\linqLec03.exe
+D:\C#\C#10\Delegates\linqLec03\bin\Debug\net6.0\linqLec03.deps.json
+D:\C#\C#10\Delegates\linqLec03\bin\Debug\net6.0\linqLec03.runtimeconfig.json
+D:\C#\C#10\Delegates\linqLec03\bin\Debug\net6.0\linqLec03.dll
+D:\C#\C#10\Delegates\linqLec03\bin\Debug\net6.0\linqLec03.pdb
+D:\C#\C#10\Delegates\linqLec03\obj\Debug\net6.0\linqLec03.csproj.AssemblyReference.cache
+D:\C#\C#10\Delegates\linqLec03\obj\Debug\net6.0\linqLec03.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#10\Delegates\linqLec03\obj\Debug\net6.0\linqLec03.AssemblyInfoInputs.cache
+D:\C#\C#10\Delegates\linqLec03\obj\Debug\net6.0\linqLec03.AssemblyInfo.cs
+D:\C#\C#10\Delegates\linqLec03\obj\Debug\net6.0\linqLec03.csproj.CoreCompileInputs.cache
+D:\C#\C#10\Delegates\linqLec03\obj\Debug\net6.0\linqLec03.dll
+D:\C#\C#10\Delegates\linqLec03\obj\Debug\net6.0\refint\linqLec03.dll
+D:\C#\C#10\Delegates\linqLec03\obj\Debug\net6.0\linqLec03.pdb
+D:\C#\C#10\Delegates\linqLec03\obj\Debug\net6.0\linqLec03.genruntimeconfig.cache
+D:\C#\C#10\Delegates\linqLec03\obj\Debug\net6.0\ref\linqLec03.dll
